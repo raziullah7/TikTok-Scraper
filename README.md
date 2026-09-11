@@ -1,6 +1,6 @@
 # TikTok Metadata Scraper
 
-A Python and Selenium browser automation project that collects public video metadata from a TikTok profile and exports it as JSON. It gathers video links from the profile grid, visits each video, and parses displayed engagement counts.
+A Python command-line tool that uses Selenium to collect public video details from a TikTok profile and save them as JSON. It scrolls the profile, visits each video, and reads the displayed engagement counts.
 
 **Verification status: Not recently verified.** The source and documentation have been reviewed; compatibility with the current TikTok website has not been checked in a recent live run.
 
